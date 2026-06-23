@@ -1,0 +1,21 @@
+.btn{
+    height:50px;
+    width: 80px;
+    margin-top: 25px;
+}
+.First{
+    background-color: blue;
+    color:white;
+}
+.Second{
+    background-color: green;
+    color:white;
+}
+.Third{
+    background-color: Yellow;
+    color:white;
+}
+.four{
+    background-color: red;
+    color:white
+}
