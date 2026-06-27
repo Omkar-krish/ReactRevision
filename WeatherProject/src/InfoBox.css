@@ -1,0 +1,7 @@
+.Info_Box{
+    margin-top: 25px;
+}
+.MainBox{
+    display: flex;
+    justify-content: center;
+}
